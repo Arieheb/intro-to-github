@@ -1,2 +1,2 @@
-# Welcomne to my Github page!!
+# Welcome to my Github page!!
 ### Hello Ella
